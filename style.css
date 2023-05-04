@@ -1,8 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 #cabecera
 {   
-font-family: 'Nunito';
-font-style: normal;
-font-weight: 400;
-font-size: 64px;
-line-height: 87px;
+    position: absolute;
+    width: 1366px;
+    height: 350px;
+    left: -1px;
+    top: 0px;
+    
+    background: linear-gradient(96.07deg, #314755 30.63%, #26A0DA 102.18%);
 }
