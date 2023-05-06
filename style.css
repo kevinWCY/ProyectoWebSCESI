@@ -2,11 +2,14 @@
     margin: 0;
     padding: 0;
 }
+
+body {
+width: 70%;
+}
+
 #cabecera
 {   
     position: absolute;
-    width: 1366px;
-    height: 350px;
     left: -1px;
     top: 0px;
     

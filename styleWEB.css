@@ -1,0 +1,17 @@
+* {
+
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: white;
+    font-family: calibri;
+}
+
+.cabeza{
+    width: 100%;
+    height: 350px;
+    background: linear-gradient(96.07deg, #314755 30.63%, #26A0DA 102.18%);
+    color: white;
+}
