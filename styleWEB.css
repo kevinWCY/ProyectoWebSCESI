@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-decoration: none;
 }
 
 body{
@@ -16,25 +17,155 @@ body{
     color: white;
 }
 
-.menu1{
+.section1{
     position: relative;
     width:306px ;
     height:648px;
     background: rgb(219, 234, 14);
 }
 
+
+/*Articulo1 y Articulo2*/
+
 .articulo1{
     width:auto; 
     height:240px;
-    background: black;
+    background: #251F24;
     color: white;
+} 
+
+.setup
+
+main .section1 .articulo2 .navbar ul li a {
+    font-size: 14px;
+    font-weight: 400;
+    color: #c4ec14;
+    padding: 16px 0px 16px 32px;
+    display: block;
 }
+
+.variantes-del-proyecto{
+    font-size: 14px;
+    font-weight: 400;
+    width: auto;
+    height: auto;
+    color: #FFFFFF;
+}
+
+main .section1 .articulo1 .navbar-nemium ul li a{
+    color: #A5A3A5;
+    padding: 12px 0px;
+    display: block;
+    background: #251F24;
+}
+
+ /*articulo2*/
 
 .articulo2 {
     position: absolute;
     bottom: 0;
     width:100% ;
     height:304px;
+    background: #251F24;
+    color: white;
+}
+
+.contenido{
+    width: auto;
+    height: 24px;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.navbar{
+    width: auto;
+    height: auto;
+    background: rgb(11, 205, 44);
+}
+
+.navbar-link{
+    width: 100%;
+    height: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    font-weight: 700;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.navbar2{
+    width: 199px;
+    height: 48px;
+}
+
+.navbar2-link{
+    width: auto;
+    height: 48px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    font-weight: 700;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.navbar2-link .navbar2-img {
+    background: rgb(0, 0, 0);
+    align-self: flex-start;
+  }
+
+
+
+ /*fin art2*/
+
+
+
+.section2{
+    position: relative;
+    top: 0;
+    width: 636px;
+    height: 6036px;
+    background: rgb(234, 84, 29);
+    color: white;
+    float: right;
+}
+
+.articulo3{
+    width: 100%;
+    height: 262px;
     background: black;
+}
+
+.articulo4{
+    width: 100%;
+    height: 1151px;
+    background: black;
+}
+
+.articulo5{
+    width: 100%;
+    height: 2448.13px;
+    background: black;
+}
+
+.articulo6{
+    width: 100%;
+    height: 1345px;
+    background: black;
+}
+
+.articulo7{
+    width: 100%;
+    height: 241px;
+    background: black;
+}
+
+.footer{
+    width: 100%;
+    height: 174px;
+    background: rgb(85, 214, 10);
     color: white;
 }
