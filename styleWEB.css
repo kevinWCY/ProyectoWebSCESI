@@ -259,12 +259,210 @@ main .section1 .articulo2 .navbar ul ul li a {
     padding-top: 30px;
 }
 
+
 /*ARTICULO 5--------------------------------------------------------------*/
+.articulo5 h2{
+    font-size: 32px;
+    font-weight: 600;
+}
+
 .articulo5{
     width: 100%;
     height: 2448.13px;
-    background: black;
+    background: #251F24;
 }
+
+.titulo-conceptos{
+    width: 100%;
+    height: 110px;
+    margin-bottom: 40px;
+}
+
+.titulo-conceptos h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+/*html*/
+
+.html{
+    width: 100%;
+    height: 492px;
+    margin-bottom: 40px;
+}
+
+.html-title{
+    width: 100%;
+    height: 44px;
+    margin-bottom: 16px;
+}
+
+.html-title h2{
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.html-text{
+    width: 100%;
+    height: 48px;
+    margin-bottom: 16px;
+}
+
+.html-text p{
+    font-size: 17px;
+    font-weight: 400;
+    color: #A5A3A5;
+}
+
+.html-img {
+    width: 100%;
+    height: 368px;
+}
+
+.html-img img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+/*ETIQUETAS*/
+.etiquetas{
+    width: 100%;
+    height: 268px;
+    margin-bottom: 40px;
+}
+
+.etiquetas p{
+    color: #A5A3A5;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.etiquetas-title{
+    width: 100%;
+    height: 44px;
+    margin-bottom: 16px;
+}
+
+.etiquetas-title h2{
+    font-size: 32px;
+    font-weight: 600;
+}
+
+/*DOM*/
+
+.dom{
+    width: 100%;
+    height: 504.13px;
+    background: #251F24;
+    margin-bottom: 40px;
+}
+
+.dom-title{
+    width: 100%;
+    height: 44px;
+    margin-bottom: 16px;
+}
+
+.dom-text{
+    width: 100%;
+    height: 96px;
+    margin-bottom: 16px;
+}
+
+.dom-text p{
+    font-size: 17px;
+    font-weight: 400;
+    color: #A5A3A5;
+}
+
+.dom-img{
+    width: 100%;
+    height: 332.13px;
+}
+
+.dom-img img{
+    object-fit: cover;
+    width: 100%;
+}
+
+/*SEMANTICA*/
+
+.semantica{
+    width: 100%;
+    height: 252px;
+    margin-bottom: 40px;
+}
+.semantica-title{
+    width: 100%;
+    height: 44px;
+    margin-bottom: 16px;
+}
+
+.semantica p{
+    font-size: 17px;
+    font-weight: 400;
+    color: #A5A3A5;
+}
+
+/*ATRIBUTOS*/
+
+.atributos{
+    width: 100%;
+    height: 156px;
+    margin-bottom: 40px;
+}
+
+.atributos-title{
+    width: 100%;
+    height: 44px;
+    margin-bottom: 16px;
+}
+
+.atributos-text{
+    width: 100%;
+    height: 96px;
+}
+
+.atributos-text p{
+    font-size: 17px;
+    font-weight: 400;
+    color: #A5A3A5;
+}
+
+.css{
+    width: 100%;
+    height: 426px;
+}
+
+.css-title{
+    width: 100%;
+    height: 44px;
+    margin-bottom: 16px;
+}
+
+.css-text{
+    width: 100%;
+    height: 48px;
+    margin-bottom: 16px;
+}
+.css-text p{
+    font-size: 17px;
+    font-weight: 400;
+    color: #A5A3A5;
+}
+
+.css-img{
+    width: 100%;
+    height: 302px;
+}
+
+.css-img img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
 /*ARTICULO 6--------------------------------------------------------*/
 .articulo6{
     width: 100%;
