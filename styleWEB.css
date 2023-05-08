@@ -702,3 +702,25 @@ main .section1 .articulo2 .navbar ul ul li a {
     background: rgb(85, 214, 10);
     color: white;
 }
+
+.descripcion{
+}
+
+.descripcion p{
+    font-size: 32px;
+    font-weight: 400;
+    color: white;
+    margin-left: 41%;
+    padding-top: 40px;
+}
+
+.redes-sociales{
+    width: 100%;
+    height: 18px;
+    margin-left: 50%;
+}
+
+.redes-sociales img{
+    object-fit: cover;
+    height: 100%;
+}
