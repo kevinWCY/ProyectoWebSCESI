@@ -22,6 +22,7 @@ main{
     flex-direction: row;
     justify-content: flex-start;
     align-items: flex-start;
+    background: #251F24;
 }
 
 .section1{
@@ -137,9 +138,10 @@ main .section1 .articulo2 .navbar ul ul li a {
     position: relative;
     width: 636px;
     height: 6036px;
-    background: rgb(234, 84, 29);
+    background: #251F24;
     color: white;
     margin: 60px 200px 0px 0px;
+    margin-bottom: 80px;
 }
 
 /*ARTICULO 3----------------------------------------------------*/
@@ -469,7 +471,7 @@ main .section1 .articulo2 .navbar ul ul li a {
 .articulo6{
     width: 100%;
     height: 1345px;
-    background: rgb(198, 12, 231);
+    background: #251F24;
 }
 
 .articulo6-title{
@@ -486,7 +488,6 @@ main .section1 .articulo2 .navbar ul ul li a {
 .modelo-compuesto{
     width: 100%;
     height: 209px;
-    background: blue;
     margin-bottom: 40px;
 }
 
@@ -534,7 +535,6 @@ main .section1 .articulo2 .navbar ul ul li a {
 .propiedades-fisicas{
     width: 100%;
     height: 204px;
-    background: blue;
     margin-bottom: 40px;
 }
 
@@ -567,7 +567,6 @@ main .section1 .articulo2 .navbar ul ul li a {
 .propiedades-logicas{
     width: 100%;
     height: 276px;
-    background: blue;
     margin-bottom: 40px;
 }
 
@@ -596,12 +595,106 @@ main .section1 .articulo2 .navbar ul ul li a {
     padding: 7px;
     color: #A5A3A5;
 }
+
+/*--------------------------------------------------------------*/
+
+.modelo-de-caja{
+    width: 100%;
+    height: 452px;
+}
+
+.caja-title{
+    width: 100%;
+    height: 33px;
+    margin-bottom: 16px;
+}
+
+.caja-title h3{
+    font-size: 24px;
+    font-weight: 400;
+    color: white;
+}
+
+.caja-img{
+    width: 100%;
+    height: 350px;
+    margin-bottom: 16px;
+}
+
+.caja-img img{
+    object-fit: cover;
+    width: 100%;
+    height:350px ; 
+}
+
+.caja-deslizador{
+    width: 100%;
+    height: 16px;
+}
+
+.caja-deslizador img{
+    object-fit: cover;
+    width: 100px;
+    height: 100%;
+    margin-left: 40%;
+}
+
+.aside-dos{
+    width: 100%;
+    height: 24px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.aside-dos p {
+    font-size: 17px;
+    font-weight: 400;
+    color: white;
+}
+
 /*ARTICULO 7---------------------------------------------------------*/
 .articulo7{
     width: 100%;
     height: 241px;
-    background: black;
+    background: #251F24;
 }
+
+.articulo7-title{
+    width: 100%;
+    height: 24px;
+    margin-bottom: 16px;
+}
+
+.articulo7-title h3{
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.articulo7-formulario{
+    width: 100%;
+    margin: auto;
+}
+
+.control{
+    width: 100%;
+    background-color: #251F24;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #FFFFFF;
+    font-size: 17px;
+
+}
+
+.articulo7-formulario .button{
+    width: 100%;
+    padding: 20px;
+    border: 1px solid #FFFFFF;
+    background-color: #157EFB;
+    font-size: 17px;
+    border-radius: 10px;
+}
+
 /*FOOTER----------------------------------------------------------*/
 .footer{
     width: 100%;
