@@ -270,6 +270,7 @@ main .section1 .articulo2 .navbar ul ul li a {
     width: 100%;
     height: 2448.13px;
     background: #251F24;
+    margin-bottom: 122.87px;
 }
 
 .titulo-conceptos{
@@ -464,10 +465,136 @@ main .section1 .articulo2 .navbar ul ul li a {
 }
 
 /*ARTICULO 6--------------------------------------------------------*/
+
 .articulo6{
     width: 100%;
     height: 1345px;
-    background: black;
+    background: rgb(198, 12, 231);
+}
+
+.articulo6-title{
+    width: 100%;
+    height: 44px;
+    margin-bottom: 40px;
+}
+
+.articulo6-title h2{
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.modelo-compuesto{
+    width: 100%;
+    height: 209px;
+    background: blue;
+    margin-bottom: 40px;
+}
+
+.modelo-title{
+    width: 100%;
+    height: 24px;
+    margin-bottom: 16px;
+}
+
+.modelo-title h3{
+    font-size: 24px;
+    font-weight: 400;
+    color: white;
+}
+
+.modelo-text{
+    width: 100%;
+    height: 49px;
+    color: #A5A3A5;
+    margin-bottom: 16px;
+}
+
+.modelo-text p{
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.modelo-list{
+    width: 100%;
+    height: 96px;
+}
+
+.modelo-list ol{
+    margin-left: 0px;
+    list-style-position: inside;
+}
+
+.modelo-list li{
+    color: #A5A3A5;
+
+}
+
+/*-------------------------------------------------*/
+
+.propiedades-fisicas{
+    width: 100%;
+    height: 204px;
+    background: blue;
+    margin-bottom: 40px;
+}
+
+.propiedades-title{
+    width: 100%;
+    height: 44px;
+    margin-bottom: 16px;
+}
+
+.propiedades-title h3{
+    font-size: 32px;
+    font-weight: 600;
+    color: white;
+}
+
+.propiedades-list{
+    width: 100%;
+    height: auto;
+}
+
+.propiedades-list ul{
+    list-style-position: inside;
+}
+
+.propiedades-list ul li{
+    padding: 7px;
+    color: #A5A3A5;
+}
+/*------------------------------------------------------------------*/
+.propiedades-logicas{
+    width: 100%;
+    height: 276px;
+    background: blue;
+    margin-bottom: 40px;
+}
+
+.logicas-title{
+    width: 100%;
+    height: 44px;
+    color: white;
+    margin-bottom: 16px;
+}
+
+.logicas-title h3{
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.logicas-list{
+    width: 100%;
+    height: auto;
+}
+
+.logicas-list ul{
+    list-style-position: inside;
+}
+
+.logicas-list ul li{
+    padding: 7px;
+    color: #A5A3A5;
 }
 /*ARTICULO 7---------------------------------------------------------*/
 .articulo7{
